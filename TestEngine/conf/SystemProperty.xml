@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+	<property id="title">
+		<value>エンジン確認用(暫定テトリス)</value>
+	</property>
+	<property id="width">
+		<value>288</value>
+	</property>
+	<property id="height">
+		<value>408</value>
+	</property>
+</properties>
